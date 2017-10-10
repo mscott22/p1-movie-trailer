@@ -1,4 +1,4 @@
-# It
+# Devil Wears Prada
 
 ## Content Priority Outline >> CONTENT STRATEGY
 
@@ -12,5 +12,5 @@
 
 ## Art Direction 
 
-Audience: The movie is rated R and will appeal to those 17 and older who enjoy scary movies.
-The colors used should be red, orange, black, yellow, and white. The colors should be dark, dreary and give the viewer a frightening feel. The typefaces should be heavy and erie. This movie is a horror movie so the website should make the audience feel uneasy and a little scared. Images of It should also be included on the site. 
+Audience: The movie is rated PG-13 and will appeal to those who likie romatic comdedies and fashion.
+The colors used should be red, white, and  black. The colors should be chic, pretty and give the viewer a high fashion feel. The typefaces should be light and tasteful. This movie is a funny movie so the website should make the audience feel happy and high fashion / expensive. Images of The devil wears prada should also be included on the site. 
