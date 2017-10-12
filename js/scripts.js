@@ -1,1 +1,3 @@
-console.log('Movie');
+//Media Element Player
+
+$('video').mediaelementplayer();
