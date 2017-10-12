@@ -1,5 +1,12 @@
-$bg : green;
+@import 'normalize';
+@import 'mediaelementplayer';
+
+/*Styling*/
+
+$bg : pink;
 
 body{
     background: $bg;
 }
+
+/*Lettering Styling*/
