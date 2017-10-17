@@ -28,4 +28,18 @@ p{
     font-family: 'Marcellus SC', serif;
 }
 
+/*Layout*/
 
+.page{
+    display: flex;
+    
+}
+
+header, 
+section, 
+main, 
+article,
+aside,
+footer{
+    flex:1;
+}

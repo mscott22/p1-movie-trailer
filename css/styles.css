@@ -1137,4 +1137,18 @@ p {
 .font2 {
   font-family: 'Marcellus SC', serif; }
 
+/*Layout*/
+/* line 33, /Users/mscott22/p1-movie-trailer/css/styles.scss */
+.page {
+  display: flex; }
+
+/* line 38, /Users/mscott22/p1-movie-trailer/css/styles.scss */
+header,
+section,
+main,
+article,
+aside,
+footer {
+  flex: 1; }
+
 /*# sourceMappingURL=styles.css.map */
