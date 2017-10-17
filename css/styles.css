@@ -6,6 +6,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Infant|Libre+Franklin|Marcellus+SC");
 /* line 12, /Users/mscott22/p1-movie-trailer/css/_normalize.scss */
 html {
   line-height: 1.15;
@@ -1117,10 +1118,23 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 
 /* End: Error */
 /*Styling*/
-/* line 8, /Users/mscott22/p1-movie-trailer/css/styles.scss */
+/* line 9, /Users/mscott22/p1-movie-trailer/css/styles.scss */
 body {
-  background: pink; }
+  background: lightgrey; }
 
 /*Lettering Styling*/
+/* line 15, /Users/mscott22/p1-movie-trailer/css/styles.scss */
+h1 {
+  color: red;
+  font-family: 'Cormorant Infant', serif;
+  font-size: 4em; }
+
+/* line 21, /Users/mscott22/p1-movie-trailer/css/styles.scss */
+p {
+  font-family: 'Libre Franklin', sans-serif; }
+
+/* line 27, /Users/mscott22/p1-movie-trailer/css/styles.scss */
+.font2 {
+  font-family: 'Marcellus SC', serif; }
 
 /*# sourceMappingURL=styles.css.map */
