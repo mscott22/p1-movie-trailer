@@ -27,7 +27,7 @@ p{
 /*Layout*/
 
 .page{
-    display: flex;
+    ;
     
 }
 
@@ -38,4 +38,10 @@ article,
 aside,
 footer{
     flex:1;
+}
+
+/*Over Riding Styles*/
+.mejs_time{
+    color: hotpink;
+    font-size: 3em;
 }
