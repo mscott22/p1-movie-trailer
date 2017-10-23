@@ -8,13 +8,23 @@ body{
 
 /*Lettering Styling*/
 
+li{
+  list-style:none;
+  
+}
+
+.checked {
+    color: orange;
+}
+
 h1{
   color:red;
   font-family: 'Cormorant Infant', serif;
   font-size:4em;
 }
 
-p{
+p,
+li{
     font-family: 'Libre Franklin', sans-serif;
     
     
@@ -25,12 +35,9 @@ p{
 }
 
 /*Layout*/
-
 .page{
-    ;
     
 }
-
 header, 
 section, 
 main, 
