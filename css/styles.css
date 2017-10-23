@@ -6,14 +6,22 @@
     
 }
 
+ul{
+    position: relative;
+    margin-top: 100px;
+}
+
 li{
     list-style: none;
     padding: 10px;
     margin: 10px;
-   
-    
+    font-family: 
+        
 }
 
+.para{
+   margin-left: 20px; 
+}
 
 .checked {
     color: orange;
@@ -38,11 +46,21 @@ li{
 
 }
 
-.title{
+header.title{
   color:red;
   font-size:5em;
-  
+  font-family: 'Marcellus SC', serif;
 }
+
+#mejs_4907159397793537_html5{
+    margin:10px;
+}
+
+.mejs__overlay mejs__layer mejs__overlay-play{
+    background: #fff;
+}
+
+]
 
 
 
