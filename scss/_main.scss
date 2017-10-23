@@ -7,40 +7,35 @@ body{
 }
 
 /*Lettering Styling*/
-
-li{
-    
-  list-style:none;
-  
-}
-
-.checked {
-    color: orange;
-}
-
-h1{
+.title{
   color:red;
-  font-family: 'Cormorant Infant', serif;
+  font-family: 'Marcellus SC', serif;
   font-size:4em;
 }
 
 p,
 li{
     font-family: 'Libre Franklin', sans-serif;
-    
-    
+     
 }
 
-.font2{
+.basicinfo{
+    float:left;
+}
+
+.title{
     font-family: 'Marcellus SC', serif;
 }
 
 /*Layout*/
+
 .page{
-    display: inline-flex;
-    
+    display:inline-flex;
+    flex-direction: column;
+     background-image: url(https://fanart.tv/api/download.php?type=download&image=86334&section=3)
     
 }
+
 header, 
 section, 
 main, 
