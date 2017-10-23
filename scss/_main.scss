@@ -9,6 +9,7 @@ body{
 /*Lettering Styling*/
 
 li{
+    
   list-style:none;
   
 }
@@ -36,6 +37,8 @@ li{
 
 /*Layout*/
 .page{
+    display: inline-flex;
+    
     
 }
 header, 
@@ -44,7 +47,7 @@ main,
 article,
 aside,
 footer{
-    flex:1;
+    flex: 1;
 }
 
 /*Over Riding Styles*/
