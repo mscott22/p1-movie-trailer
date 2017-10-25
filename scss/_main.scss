@@ -7,16 +7,16 @@ body{
 }
 
 /*Lettering Styling*/
-.title{
-  color:red;
-  font-family: 'Marcellus SC', serif;
-  font-size:4em;
-}
-
 p,
 li{
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: Avenir;
      
+}
+
+header.title{
+  color:black;
+  font-size:5em;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 /*Layout*/
@@ -39,14 +39,12 @@ footer{
 
 /*Over Riding Styles*/
 .mejs_time{
-    color: hotpink;
-    font-size: 3em;
+    color: red;
+    
 }
 
-#mejs_4907159397793537_html5{
-    margin:10px;
-}
-
-.mejs_layer{
-    background: #fff;
+.mejs__container{
+    background: none;
+    margin: 20px;
+    
 }

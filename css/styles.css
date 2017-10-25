@@ -1,85 +1,95 @@
-.info{
-    width:800px;
-    max-width:800px;
+img{
+    width:120px;
+    margin: 30px;
+}
+
+
+.mejs__time{
+    color: red;
     
 }
 
-.cover{
-    float: right;
-    display: flex;
-}
 
-
-.page{
-    display:inline-flex;
-    flex-direction: column;
-     background-image: url(https://fanart.tv/api/download.php?type=download&image=86334&section=3);
-      
+.mejs__container{
+    background: none;
+    margin: 20px;
     
 }
 
 .center{
-    margin: auto; 
-    background: white;
-    border: 1px solid black;
+    margin: 0 auto;
+    align-items: center;
+width: 70%;
+    
+}
+
+.page{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+     background-image: url(http://logicalgreeninstitute.com/wp-content/uploads/2015/08/socialmedia.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+      
     
 }
 
 footer{
     font-size: .5em;
-    margin: auto
+    margin: auto;
     
 }
 
 ul{
     position: relative;
     margin-top: 100px;
+    background:#0e0e0c;
+    padding: 10px;
+    
+    
 }
 
 li{
     list-style: none;
     padding: 10px;
     margin: 10px;
-    font-size:1em;  
+    font-size:1.1em;  
+    font-family: Avenir;
+    color:white;
         
 }
 
 .checked {
     color: orange;
-    z-index: 1;
     
 }
 
 .topnav {
-    background-color: #333;
+    background-color: ;
     overflow: hidden;
 }
 .topnav a {
     float: left;
     display: block ;
-    color: #f2f2f2;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family: avenir;
 
 }
 
 header.title{
-  color:red;
+  color:black;
   font-size:5em;
-  font-family: 'Marcellus SC', serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
-#mejs_4907159397793537_html5{
-    margin:10px;
-}
 
-.mejs__overlay mejs__layer mejs__overlay-play{
-    background: #fff;
-}
 
-]
+
+
 
 
 
